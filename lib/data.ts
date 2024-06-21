@@ -191,8 +191,8 @@ export const projectsData = [
       "logos:css-3",
     ],
     imageUrl: cryptoXImg,
-    githubLink: "https://github.com/yourusername/crypto-x",
-    demoLink: "https://www.example.com/demo/crypto-x",
+    // githubLink: "https://github.com/yourusername/crypto-x",
+    // demoLink: "https://www.example.com/demo/crypto-x",
   },
   {
     title: "MecAttendance",
@@ -212,7 +212,7 @@ export const projectsData = [
     ],
     imageUrl: mecAttendanceImg,
     githubLink: "https://github.com/jeswinbinu/Face-Recognition",
-    demoLink: "https://www.example.com/demo/mecattendance",
+    demoLink: "https://attendcs6b.streamlit.app/",
   },
   // Additional projects can go here
 ] as const;
